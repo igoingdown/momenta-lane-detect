@@ -1,0 +1,318 @@
+Running for cordova1...
+------------------------------------------------------------------
+
+./LaneDetector64 --show --save-lanes --wait=50 --lanes-conf=Lanes.conf --camera-conf=CameraInfo.conf --list-file=../caltech-lanes//cordova1/list.txt --list-path=../caltech-lanes//cordova1/ --output-suffix=_results
+main.cc:187 msg   Loaded camera file
+main.cc:194 msg   Loaded lanes config file
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00000.png
+main.cc:96 msg   Found 5 lanes in 14.196000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00001.png
+main.cc:96 msg   Found 4 lanes in 17.778000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00002.png
+main.cc:96 msg   Found 4 lanes in 15.873000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00003.png
+main.cc:96 msg   Found 4 lanes in 14.157000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00004.png
+main.cc:96 msg   Found 3 lanes in 12.184000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00005.png
+main.cc:96 msg   Found 4 lanes in 16.649000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00006.png
+main.cc:96 msg   Found 4 lanes in 15.508000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00007.png
+main.cc:96 msg   Found 3 lanes in 15.933000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00008.png
+main.cc:96 msg   Found 4 lanes in 14.420000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00009.png
+main.cc:96 msg   Found 3 lanes in 13.272000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00010.png
+main.cc:96 msg   Found 5 lanes in 14.580000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00011.png
+main.cc:96 msg   Found 2 lanes in 13.975000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00012.png
+main.cc:96 msg   Found 5 lanes in 16.561000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00013.png
+main.cc:96 msg   Found 5 lanes in 15.650000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00014.png
+main.cc:96 msg   Found 4 lanes in 13.217000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00015.png
+main.cc:96 msg   Found 4 lanes in 14.817000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00016.png
+main.cc:96 msg   Found 5 lanes in 13.724000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00017.png
+main.cc:96 msg   Found 4 lanes in 15.249000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00018.png
+main.cc:96 msg   Found 6 lanes in 16.562000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00019.png
+main.cc:96 msg   Found 5 lanes in 13.872000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00020.png
+main.cc:96 msg   Found 4 lanes in 13.479000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00021.png
+main.cc:96 msg   Found 4 lanes in 14.897000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00022.png
+main.cc:96 msg   Found 5 lanes in 16.072000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00023.png
+main.cc:96 msg   Found 5 lanes in 13.857000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00024.png
+main.cc:96 msg   Found 5 lanes in 14.087000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00025.png
+main.cc:96 msg   Found 5 lanes in 14.609000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00026.png
+main.cc:96 msg   Found 5 lanes in 15.251000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00027.png
+main.cc:96 msg   Found 4 lanes in 14.299000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00028.png
+main.cc:96 msg   Found 4 lanes in 12.656000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00029.png
+main.cc:96 msg   Found 4 lanes in 13.319000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00030.png
+main.cc:96 msg   Found 3 lanes in 14.678000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00031.png
+main.cc:96 msg   Found 5 lanes in 14.466000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00032.png
+main.cc:96 msg   Found 3 lanes in 13.629000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00033.png
+main.cc:96 msg   Found 4 lanes in 13.868000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00034.png
+main.cc:96 msg   Found 3 lanes in 11.631000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00035.png
+main.cc:96 msg   Found 4 lanes in 13.348000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00036.png
+main.cc:96 msg   Found 3 lanes in 11.580000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00037.png
+main.cc:96 msg   Found 4 lanes in 14.191000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00038.png
+main.cc:96 msg   Found 4 lanes in 14.275000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00039.png
+main.cc:96 msg   Found 3 lanes in 13.533000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00040.png
+main.cc:96 msg   Found 4 lanes in 15.219000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova1/f00041.png
+Running for cordova2...
+------------------------------------------------------------------
+
+./LaneDetector64 --show --save-lanes --wait=50 --lanes-conf=Lanes.conf --camera-conf=CameraInfo.conf --list-file=../caltech-lanes//cordova2/list.txt --list-path=../caltech-lanes//cordova2/ --output-suffix=_results
+main.cc:187 msg   Loaded camera file
+main.cc:194 msg   Loaded lanes config file
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova2/f00000.png
+main.cc:96 msg   Found 4 lanes in 15.415000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova2/f00001.png
+main.cc:96 msg   Found 4 lanes in 12.921000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova2/f00002.png
+main.cc:96 msg   Found 3 lanes in 13.025000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//cordova2/f00003.png
+Running for washington1...
+------------------------------------------------------------------
+
+./LaneDetector64 --show --save-lanes --wait=50 --lanes-conf=Lanes.conf --camera-conf=CameraInfo.conf --list-file=../caltech-lanes//washington1/list.txt --list-path=../caltech-lanes//washington1/ --output-suffix=_results
+main.cc:187 msg   Loaded camera file
+main.cc:194 msg   Loaded lanes config file
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00000.png
+main.cc:96 msg   Found 3 lanes in 11.995000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00001.png
+main.cc:96 msg   Found 3 lanes in 13.119000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00002.png
+main.cc:96 msg   Found 2 lanes in 12.529000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00003.png
+main.cc:96 msg   Found 3 lanes in 14.344000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00004.png
+main.cc:96 msg   Found 3 lanes in 14.286000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00005.png
+main.cc:96 msg   Found 3 lanes in 12.694000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00006.png
+main.cc:96 msg   Found 1 lanes in 11.867000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00007.png
+main.cc:96 msg   Found 3 lanes in 13.220000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00008.png
+main.cc:96 msg   Found 3 lanes in 12.586000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00009.png
+main.cc:96 msg   Found 2 lanes in 11.746000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00010.png
+main.cc:96 msg   Found 3 lanes in 12.560000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00011.png
+main.cc:96 msg   Found 2 lanes in 13.176000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00012.png
+main.cc:96 msg   Found 3 lanes in 13.905000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00013.png
+main.cc:96 msg   Found 4 lanes in 14.480000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00014.png
+main.cc:96 msg   Found 4 lanes in 13.742000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00015.png
+main.cc:96 msg   Found 2 lanes in 14.360000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00016.png
+main.cc:96 msg   Found 4 lanes in 15.175000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00017.png
+main.cc:96 msg   Found 3 lanes in 12.168000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00018.png
+main.cc:96 msg   Found 2 lanes in 13.048000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00019.png
+main.cc:96 msg   Found 3 lanes in 15.177000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00020.png
+main.cc:96 msg   Found 4 lanes in 15.024000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00021.png
+main.cc:96 msg   Found 2 lanes in 13.038000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00022.png
+main.cc:96 msg   Found 4 lanes in 13.227000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00023.png
+main.cc:96 msg   Found 3 lanes in 13.840000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00024.png
+main.cc:96 msg   Found 3 lanes in 13.790000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00025.png
+main.cc:96 msg   Found 2 lanes in 11.874000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00026.png
+main.cc:96 msg   Found 3 lanes in 13.838000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00027.png
+main.cc:96 msg   Found 3 lanes in 14.589000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00028.png
+main.cc:96 msg   Found 2 lanes in 11.515000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00029.png
+main.cc:96 msg   Found 2 lanes in 14.253000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00030.png
+main.cc:96 msg   Found 1 lanes in 11.563000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00031.png
+main.cc:96 msg   Found 3 lanes in 15.203000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00032.png
+main.cc:96 msg   Found 2 lanes in 12.732000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00033.png
+main.cc:96 msg   Found 4 lanes in 15.026000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00034.png
+main.cc:96 msg   Found 4 lanes in 12.890000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00035.png
+main.cc:96 msg   Found 2 lanes in 14.344000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00036.png
+main.cc:96 msg   Found 3 lanes in 12.934000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00037.png
+main.cc:96 msg   Found 4 lanes in 13.361000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00038.png
+main.cc:96 msg   Found 5 lanes in 15.265000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00039.png
+main.cc:96 msg   Found 5 lanes in 15.030000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00040.png
+main.cc:96 msg   Found 4 lanes in 16.046000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00041.png
+main.cc:96 msg   Found 0 lanes in 3.595000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00042.png
+main.cc:96 msg   Found 4 lanes in 13.230000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00043.png
+main.cc:96 msg   Found 5 lanes in 15.939000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00044.png
+main.cc:96 msg   Found 5 lanes in 17.108000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00045.png
+main.cc:96 msg   Found 4 lanes in 13.712000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00046.png
+main.cc:96 msg   Found 4 lanes in 13.776000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00047.png
+main.cc:96 msg   Found 5 lanes in 15.906000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00048.png
+main.cc:96 msg   Found 4 lanes in 13.658000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00049.png
+main.cc:96 msg   Found 4 lanes in 13.441000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00050.png
+main.cc:96 msg   Found 3 lanes in 11.243000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00051.png
+main.cc:96 msg   Found 5 lanes in 15.286000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00052.png
+main.cc:96 msg   Found 5 lanes in 14.981000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00053.png
+main.cc:96 msg   Found 5 lanes in 16.991000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00054.png
+main.cc:96 msg   Found 4 lanes in 13.372000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00055.png
+main.cc:96 msg   Found 4 lanes in 13.941000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00056.png
+main.cc:96 msg   Found 3 lanes in 13.375000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00057.png
+main.cc:96 msg   Found 6 lanes in 17.467000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00058.png
+main.cc:96 msg   Found 4 lanes in 13.481000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00059.png
+main.cc:96 msg   Found 6 lanes in 17.664000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington1/f00060.png
+Running for washington2...
+------------------------------------------------------------------
+
+./LaneDetector64 --show --save-lanes --wait=50 --lanes-conf=Lanes.conf --camera-conf=CameraInfo.conf --list-file=../caltech-lanes//washington2/list.txt --list-path=../caltech-lanes//washington2/ --output-suffix=_results
+main.cc:187 msg   Loaded camera file
+main.cc:194 msg   Loaded lanes config file
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00000.png
+main.cc:96 msg   Found 2 lanes in 15.760000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00001.png
+main.cc:96 msg   Found 5 lanes in 15.520000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00002.png
+main.cc:96 msg   Found 5 lanes in 15.640000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00003.png
+main.cc:96 msg   Found 4 lanes in 15.333000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00004.png
+main.cc:96 msg   Found 4 lanes in 15.915000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00005.png
+main.cc:96 msg   Found 4 lanes in 13.509000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00006.png
+main.cc:96 msg   Found 4 lanes in 14.912000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00007.png
+main.cc:96 msg   Found 5 lanes in 16.287000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00008.png
+main.cc:96 msg   Found 5 lanes in 16.428000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00009.png
+main.cc:96 msg   Found 3 lanes in 12.833000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00010.png
+main.cc:96 msg   Found 2 lanes in 12.087000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00011.png
+main.cc:96 msg   Found 4 lanes in 14.693000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00012.png
+main.cc:96 msg   Found 3 lanes in 14.276000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00013.png
+main.cc:96 msg   Found 3 lanes in 13.580000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00014.png
+main.cc:96 msg   Found 3 lanes in 12.698000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00015.png
+main.cc:96 msg   Found 5 lanes in 14.216000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00016.png
+main.cc:96 msg   Found 2 lanes in 12.817000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00017.png
+main.cc:96 msg   Found 4 lanes in 13.057000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00018.png
+main.cc:96 msg   Found 2 lanes in 12.269000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00019.png
+main.cc:96 msg   Found 2 lanes in 11.302000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00020.png
+main.cc:96 msg   Found 3 lanes in 13.087000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00021.png
+main.cc:96 msg   Found 4 lanes in 13.035000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00022.png
+main.cc:96 msg   Found 4 lanes in 13.019000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00023.png
+main.cc:96 msg   Found 3 lanes in 13.064000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00024.png
+main.cc:96 msg   Found 3 lanes in 13.042000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00025.png
+main.cc:96 msg   Found 4 lanes in 12.690000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00026.png
+main.cc:96 msg   Found 5 lanes in 15.992000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00027.png
+main.cc:96 msg   Found 4 lanes in 12.936000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00028.png
+main.cc:96 msg   Found 4 lanes in 13.593000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00029.png
+main.cc:96 msg   Found 4 lanes in 13.420000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00030.png
+main.cc:96 msg   Found 4 lanes in 14.117000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00031.png
+main.cc:96 msg   Found 4 lanes in 14.333000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00032.png
+main.cc:96 msg   Found 4 lanes in 14.106000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00033.png
+main.cc:96 msg   Found 5 lanes in 16.047000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00034.png
+main.cc:96 msg   Found 3 lanes in 14.101000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00035.png
+main.cc:96 msg   Found 4 lanes in 13.719000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00036.png
+main.cc:96 msg   Found 4 lanes in 14.596000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00037.png
+main.cc:96 msg   Found 4 lanes in 12.741000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00038.png
+main.cc:96 msg   Found 3 lanes in 12.804000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00039.png
+main.cc:96 msg   Found 5 lanes in 14.698000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00040.png
+main.cc:96 msg   Found 3 lanes in 12.156000 msec
+main.cc:249 msg   Processing image: ../caltech-lanes//washington2/f00041.png

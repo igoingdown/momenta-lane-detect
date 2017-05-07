@@ -1,0 +1,50 @@
+frame#00000000 has 1 splines
+	spline#1 has 4 points and score 8.09464
+		233.473, 230.329
+		213.182, 247.469
+		200.619, 272.374
+		177.564, 287.174
+frame#00000001 has 2 splines
+	spline#1 has 4 points and score 15.3581
+		380.667, 220.057
+		420.839, 259.922
+		455.171, 304.089
+		493.968, 341.395
+	spline#2 has 4 points and score 11.0155
+		383.157, 222.892
+		396.558, 232.261
+		404.096, 246.215
+		415.866, 257.565
+frame#00000002 has 0 splines
+frame#00000003 has 0 splines
+frame#00000004 has 0 splines
+frame#00000005 has 2 splines
+	spline#1 has 4 points and score 18.3975
+		261.377, 221.238
+		240.172, 242.262
+		216.497, 259.239
+		204.4, 287.285
+	spline#2 has 4 points and score 9.2214
+		358.378, 220.149
+		445.299, 262.783
+		532.219, 305.417
+		619.14, 348.051
+frame#00000006 has 1 splines
+	spline#1 has 4 points and score 4.78395
+		401.894, 217.679
+		424.396, 226.629
+		435.59, 228.558
+		446.116, 232.539
+frame#00000007 has 1 splines
+	spline#1 has 4 points and score 14.7548
+		287.511, 224.144
+		260.981, 244.125
+		241.179, 260.308
+		225.922, 289.393
+frame#00000008 has 1 splines
+	spline#1 has 4 points and score 15.2331
+		234.787, 228.264
+		212.076, 241.322
+		192.952, 260.916
+		170.382, 272.592
+frame#00000009 has 0 splines
